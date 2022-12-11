@@ -1,0 +1,3 @@
+C:/Users/Wai Hin/CLionProjects/miniProject/cmake-build-debug/CMakeFiles/miniProject.dir
+C:/Users/Wai Hin/CLionProjects/miniProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wai Hin/CLionProjects/miniProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

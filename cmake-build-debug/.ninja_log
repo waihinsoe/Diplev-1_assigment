@@ -1,0 +1,8 @@
+# ninja log v5
+3	157	6914202364428841	CMakeFiles/miniProject.dir/main.c.obj	616d8de0f4480931
+3227	8439	6924763921137431	miniProject.exe	ca8169d371ad55d4
+2	3257	6924725396693058	CMakeFiles/miniProject.dir/fliterWord.c.obj	519994300e1bb60d
+278	4662	6925051388569406	build.ninja	1b652841ed6c0ae
+3	269	6919994155849520	CMakeFiles/miniProject.dir/fgetc.c.obj	779d33c33eed9d37
+3	136	6924678541533965	CMakeFiles/miniProject.dir/datastructureAndAlgrothim.c.obj	4a8d8bd178e5ea86
+1	3217	6924763869194024	CMakeFiles/miniProject.dir/Assigment.c.obj	f12073204a3e9dfe
